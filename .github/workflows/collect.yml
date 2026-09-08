@@ -33,6 +33,7 @@ jobs:
         run: python scripts/detect_anomalies.py
 
       - name: Generate AI explanations
+        continue-on-error: true # best-effort: never block the data commit below
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/explain_trend.py

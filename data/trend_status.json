@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-14T05:58:36.365254+00:00",
+  "generated_at": "2026-09-15T05:59:30.592148+00:00",
   "keywords": {
     "iPhone 17": {
       "status": "Declining",
-      "latest_value": 15.0,
-      "rolling_mean": 42.0,
-      "rolling_std": 29.03,
-      "z_score": -0.93,
-      "slope_7d": -13.43,
-      "data_points": 7
+      "latest_value": 16.0,
+      "rolling_mean": 38.75,
+      "rolling_std": 28.49,
+      "z_score": -0.8,
+      "slope_7d": -7.93,
+      "data_points": 8
     },
     "Samsung Galaxy S25": {
       "status": "Stable",
@@ -17,7 +17,7 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 7
+      "data_points": 8
     },
     "Xiaomi 15": {
       "status": "Stable",
@@ -26,7 +26,7 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 7
+      "data_points": 8
     },
     "ASUS ROG Phone": {
       "status": "Stable",
@@ -35,16 +35,16 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 7
+      "data_points": 8
     },
     "REDMAGIC": {
       "status": "Stable",
-      "latest_value": 1.0,
-      "rolling_mean": 0.71,
+      "latest_value": 0.0,
+      "rolling_mean": 0.62,
       "rolling_std": 0.7,
-      "z_score": 0.41,
-      "slope_7d": 0.04,
-      "data_points": 7
+      "z_score": -0.9,
+      "slope_7d": -0.14,
+      "data_points": 8
     },
     "OPPO Find X8": {
       "status": "Stable",
@@ -53,7 +53,7 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 7
+      "data_points": 8
     },
     "Vivo X200": {
       "status": "Stable",
@@ -62,7 +62,7 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 7
+      "data_points": 8
     },
     "Realme GT": {
       "status": "Stable",
@@ -71,7 +71,7 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 7
+      "data_points": 8
     },
     "มือถือพับได้": {
       "status": "Stable",
@@ -80,25 +80,25 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 7
+      "data_points": 8
     },
     "หูฟังไร้สาย": {
       "status": "Rising",
-      "latest_value": 38.0,
-      "rolling_mean": 21.14,
-      "rolling_std": 20.07,
-      "z_score": 0.84,
-      "slope_7d": 2.61,
-      "data_points": 7
+      "latest_value": 36.0,
+      "rolling_mean": 23.0,
+      "rolling_std": 19.41,
+      "z_score": 0.67,
+      "slope_7d": 1.18,
+      "data_points": 8
     },
     "พาวเวอร์แบงค์": {
-      "status": "Declining",
-      "latest_value": 33.0,
-      "rolling_mean": 33.29,
-      "rolling_std": 8.55,
-      "z_score": -0.03,
-      "slope_7d": -1.32,
-      "data_points": 7
+      "status": "Stable",
+      "latest_value": 26.0,
+      "rolling_mean": 32.38,
+      "rolling_std": 8.35,
+      "z_score": -0.76,
+      "slope_7d": -0.29,
+      "data_points": 8
     },
     "โน้ตบุ๊ก AI": {
       "status": "Stable",
@@ -107,7 +107,7 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 7
+      "data_points": 8
     },
     "การ์ดจอ RTX": {
       "status": "Stable",
@@ -116,16 +116,17 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 7
+      "data_points": 8
     },
     "MacBook Air": {
-      "status": "Declining",
-      "latest_value": 39.0,
-      "rolling_mean": 47.57,
-      "rolling_std": 10.79,
-      "z_score": -0.79,
-      "slope_7d": -3.75,
-      "data_points": 7
+      "status": "Spike",
+      "latest_value": 99.0,
+      "rolling_mean": 54.0,
+      "rolling_std": 19.78,
+      "z_score": 2.28,
+      "slope_7d": 3.68,
+      "data_points": 8,
+      "ai_explanation": "I can't confirm a specific cause with confidence. A plausible explanation is that Apple released or announced a new MacBook Air model (or a price promotion/sale event, such as during a Thai shopping campaign), which would drive search interest, but I don't have verified news data to confirm this is the actual trigger for this particular spike."
     },
     "นาฬิกาอัจฉริยะ": {
       "status": "Stable",
@@ -134,7 +135,7 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 7
+      "data_points": 8
     }
   }
 }

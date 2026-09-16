@@ -40,6 +40,11 @@
         "date": "2026-09-15",
         "trends_score": 16,
         "news_count": 0
+      },
+      {
+        "date": "2026-09-16",
+        "trends_score": 11,
+        "news_count": 0
       }
     ],
     "Samsung Galaxy S25": [
@@ -80,6 +85,11 @@
       },
       {
         "date": "2026-09-15",
+        "trends_score": 0,
+        "news_count": 0
+      },
+      {
+        "date": "2026-09-16",
         "trends_score": 0,
         "news_count": 0
       }
@@ -124,6 +134,11 @@
         "date": "2026-09-15",
         "trends_score": 0,
         "news_count": 0
+      },
+      {
+        "date": "2026-09-16",
+        "trends_score": 0,
+        "news_count": 0
       }
     ],
     "ASUS ROG Phone": [
@@ -164,6 +179,11 @@
       },
       {
         "date": "2026-09-15",
+        "trends_score": 0,
+        "news_count": 0
+      },
+      {
+        "date": "2026-09-16",
         "trends_score": 0,
         "news_count": 0
       }
@@ -208,6 +228,11 @@
         "date": "2026-09-15",
         "trends_score": 0,
         "news_count": 0
+      },
+      {
+        "date": "2026-09-16",
+        "trends_score": 0,
+        "news_count": 0
       }
     ],
     "OPPO Find X8": [
@@ -248,6 +273,11 @@
       },
       {
         "date": "2026-09-15",
+        "trends_score": 0,
+        "news_count": 0
+      },
+      {
+        "date": "2026-09-16",
         "trends_score": 0,
         "news_count": 0
       }
@@ -292,6 +322,11 @@
         "date": "2026-09-15",
         "trends_score": 0,
         "news_count": 0
+      },
+      {
+        "date": "2026-09-16",
+        "trends_score": 0,
+        "news_count": 0
       }
     ],
     "Realme GT": [
@@ -332,6 +367,11 @@
       },
       {
         "date": "2026-09-15",
+        "trends_score": 0,
+        "news_count": 0
+      },
+      {
+        "date": "2026-09-16",
         "trends_score": 0,
         "news_count": 0
       }
@@ -376,6 +416,11 @@
         "date": "2026-09-15",
         "trends_score": 0,
         "news_count": 0
+      },
+      {
+        "date": "2026-09-16",
+        "trends_score": 0,
+        "news_count": 0
       }
     ],
     "หูฟังไร้สาย": [
@@ -417,6 +462,11 @@
       {
         "date": "2026-09-15",
         "trends_score": 36,
+        "news_count": 0
+      },
+      {
+        "date": "2026-09-16",
+        "trends_score": 0,
         "news_count": 0
       }
     ],
@@ -460,6 +510,11 @@
         "date": "2026-09-15",
         "trends_score": 26,
         "news_count": 0
+      },
+      {
+        "date": "2026-09-16",
+        "trends_score": 40,
+        "news_count": 0
       }
     ],
     "โน้ตบุ๊ก AI": [
@@ -500,6 +555,11 @@
       },
       {
         "date": "2026-09-15",
+        "trends_score": 0,
+        "news_count": 0
+      },
+      {
+        "date": "2026-09-16",
         "trends_score": 0,
         "news_count": 0
       }
@@ -544,6 +604,11 @@
         "date": "2026-09-15",
         "trends_score": 0,
         "news_count": 0
+      },
+      {
+        "date": "2026-09-16",
+        "trends_score": 0,
+        "news_count": 0
       }
     ],
     "MacBook Air": [
@@ -586,6 +651,11 @@
         "date": "2026-09-15",
         "trends_score": 99,
         "news_count": 0
+      },
+      {
+        "date": "2026-09-16",
+        "trends_score": 46,
+        "news_count": 0
       }
     ],
     "นาฬิกาอัจฉริยะ": [
@@ -626,6 +696,11 @@
       },
       {
         "date": "2026-09-15",
+        "trends_score": 0,
+        "news_count": 0
+      },
+      {
+        "date": "2026-09-16",
         "trends_score": 0,
         "news_count": 0
       }

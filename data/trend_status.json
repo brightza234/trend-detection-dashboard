@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T06:30:20.094108+00:00",
+  "generated_at": "2026-10-01T07:06:13.023112+00:00",
   "keywords": {
     "iPhone 17": {
       "status": "Rising",
@@ -53,25 +53,25 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 23
+      "data_points": 24
     },
     "Vivo X200": {
-      "status": "Declining",
+      "status": "Stable",
       "latest_value": 0.0,
-      "rolling_mean": 2.79,
-      "rolling_std": 8.52,
-      "z_score": -0.33,
-      "slope_7d": -0.64,
-      "data_points": 23
+      "rolling_mean": 0.43,
+      "rolling_std": 1.55,
+      "z_score": -0.28,
+      "slope_7d": 0.0,
+      "data_points": 24
     },
     "Realme GT": {
-      "status": "Rising",
+      "status": "Stable",
       "latest_value": 0.0,
       "rolling_mean": 2.29,
       "rolling_std": 8.24,
       "z_score": -0.28,
-      "slope_7d": 1.14,
-      "data_points": 23
+      "slope_7d": 0.0,
+      "data_points": 24
     },
     "มือถือพับได้": {
       "status": "Stable",
@@ -80,16 +80,16 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 23
+      "data_points": 24
     },
     "หูฟังไร้สาย": {
-      "status": "Stable",
+      "status": "Declining",
       "latest_value": 0.0,
       "rolling_mean": 5.07,
       "rolling_std": 13.34,
       "z_score": -0.38,
-      "slope_7d": -0.36,
-      "data_points": 23
+      "slope_7d": -0.54,
+      "data_points": 24
     },
     "พาวเวอร์แบงค์": {
       "status": "Rising",

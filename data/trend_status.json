@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-03T06:16:39.518955+00:00",
+  "generated_at": "2026-10-04T06:42:08.868639+00:00",
   "keywords": {
     "iPhone 17": {
-      "status": "Rising",
-      "latest_value": 73.0,
-      "rolling_mean": 53.21,
-      "rolling_std": 11.26,
-      "z_score": 1.76,
-      "slope_7d": 3.61,
-      "data_points": 23
+      "status": "Spike",
+      "latest_value": 89.0,
+      "rolling_mean": 57.5,
+      "rolling_std": 12.57,
+      "z_score": 2.51,
+      "slope_7d": 6.07,
+      "data_points": 24
     },
     "Samsung Galaxy S25": {
       "status": "Stable",
       "latest_value": 0.0,
-      "rolling_mean": 0.07,
-      "rolling_std": 0.26,
-      "z_score": -0.28,
+      "rolling_mean": 0.0,
+      "rolling_std": 0.0,
+      "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 23
+      "data_points": 24
     },
     "Xiaomi 15": {
       "status": "Stable",
@@ -26,7 +26,7 @@
       "rolling_std": 0.77,
       "z_score": -0.28,
       "slope_7d": 0.0,
-      "data_points": 23
+      "data_points": 24
     },
     "ASUS ROG Phone": {
       "status": "Stable",
@@ -35,7 +35,7 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 23
+      "data_points": 24
     },
     "REDMAGIC": {
       "status": "Stable",
@@ -44,7 +44,7 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 23
+      "data_points": 24
     },
     "OPPO Find X8": {
       "status": "Stable",
@@ -53,7 +53,7 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 25
+      "data_points": 26
     },
     "Vivo X200": {
       "status": "Stable",
@@ -62,7 +62,7 @@
       "rolling_std": 1.55,
       "z_score": -0.28,
       "slope_7d": 0.0,
-      "data_points": 25
+      "data_points": 26
     },
     "Realme GT": {
       "status": "Declining",
@@ -70,8 +70,8 @@
       "rolling_mean": 2.29,
       "rolling_std": 8.24,
       "z_score": -0.28,
-      "slope_7d": -1.14,
-      "data_points": 25
+      "slope_7d": -2.29,
+      "data_points": 26
     },
     "มือถือพับได้": {
       "status": "Stable",
@@ -80,25 +80,25 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 25
+      "data_points": 26
     },
     "หูฟังไร้สาย": {
       "status": "Spike",
-      "latest_value": 42.0,
-      "rolling_mean": 4.43,
-      "rolling_std": 11.15,
-      "z_score": 3.37,
-      "slope_7d": 4.5,
-      "data_points": 25
+      "latest_value": 60.0,
+      "rolling_mean": 8.71,
+      "rolling_std": 18.03,
+      "z_score": 2.84,
+      "slope_7d": 9.43,
+      "data_points": 26
     },
     "พาวเวอร์แบงค์": {
       "status": "Rising",
-      "latest_value": 27.0,
-      "rolling_mean": 19.36,
-      "rolling_std": 16.51,
-      "z_score": 0.46,
-      "slope_7d": 3.32,
-      "data_points": 23
+      "latest_value": 47.0,
+      "rolling_mean": 20.64,
+      "rolling_std": 17.86,
+      "z_score": 1.48,
+      "slope_7d": 2.54,
+      "data_points": 24
     },
     "โน้ตบุ๊ก AI": {
       "status": "Stable",
@@ -107,7 +107,7 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 23
+      "data_points": 24
     },
     "การ์ดจอ RTX": {
       "status": "Stable",
@@ -116,16 +116,16 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 23
+      "data_points": 24
     },
     "MacBook Air": {
       "status": "Rising",
-      "latest_value": 30.0,
-      "rolling_mean": 29.93,
-      "rolling_std": 25.29,
-      "z_score": 0.0,
-      "slope_7d": 7.0,
-      "data_points": 23
+      "latest_value": 31.0,
+      "rolling_mean": 27.36,
+      "rolling_std": 23.13,
+      "z_score": 0.16,
+      "slope_7d": 2.36,
+      "data_points": 24
     },
     "นาฬิกาอัจฉริยะ": {
       "status": "Stable",
@@ -134,7 +134,7 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 23
+      "data_points": 24
     }
   }
 }

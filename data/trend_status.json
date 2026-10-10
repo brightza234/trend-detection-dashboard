@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-09T07:15:43.921773+00:00",
+  "generated_at": "2026-10-10T06:53:00.387435+00:00",
   "keywords": {
     "iPhone 17": {
       "status": "Rising",
-      "latest_value": 67.0,
-      "rolling_mean": 61.0,
-      "rolling_std": 13.97,
-      "z_score": 0.43,
-      "slope_7d": 1.86,
-      "data_points": 28
+      "latest_value": 88.0,
+      "rolling_mean": 63.57,
+      "rolling_std": 15.32,
+      "z_score": 1.59,
+      "slope_7d": 0.61,
+      "data_points": 29
     },
     "Samsung Galaxy S25": {
       "status": "Stable",
@@ -17,16 +17,16 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 28
+      "data_points": 29
     },
     "Xiaomi 15": {
-      "status": "Stable",
-      "latest_value": 0.0,
-      "rolling_mean": 0.5,
-      "rolling_std": 1.24,
-      "z_score": -0.4,
-      "slope_7d": 0.14,
-      "data_points": 28
+      "status": "Spike",
+      "latest_value": 5.0,
+      "rolling_mean": 0.86,
+      "rolling_std": 1.68,
+      "z_score": 2.46,
+      "slope_7d": 0.54,
+      "data_points": 29
     },
     "ASUS ROG Phone": {
       "status": "Stable",
@@ -35,7 +35,7 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 28
+      "data_points": 29
     },
     "REDMAGIC": {
       "status": "Stable",
@@ -43,8 +43,8 @@
       "rolling_mean": 0.29,
       "rolling_std": 1.03,
       "z_score": -0.28,
-      "slope_7d": 0.14,
-      "data_points": 28
+      "slope_7d": 0.0,
+      "data_points": 29
     },
     "OPPO Find X8": {
       "status": "Stable",

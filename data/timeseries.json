@@ -214,6 +214,11 @@
       {
         "date": "2026-10-21",
         "news_count": 0
+      },
+      {
+        "date": "2026-10-22",
+        "trends_score": 65,
+        "news_count": 0
       }
     ],
     "Samsung Galaxy S25": [
@@ -429,6 +434,11 @@
       },
       {
         "date": "2026-10-21",
+        "news_count": 0
+      },
+      {
+        "date": "2026-10-22",
+        "trends_score": 0,
         "news_count": 0
       }
     ],
@@ -646,6 +656,11 @@
       {
         "date": "2026-10-21",
         "news_count": 0
+      },
+      {
+        "date": "2026-10-22",
+        "trends_score": 0,
+        "news_count": 0
       }
     ],
     "ASUS ROG Phone": [
@@ -862,6 +877,11 @@
       {
         "date": "2026-10-21",
         "news_count": 0
+      },
+      {
+        "date": "2026-10-22",
+        "trends_score": 0,
+        "news_count": 0
       }
     ],
     "REDMAGIC": [
@@ -1077,6 +1097,11 @@
       },
       {
         "date": "2026-10-21",
+        "news_count": 0
+      },
+      {
+        "date": "2026-10-22",
+        "trends_score": 8,
         "news_count": 0
       }
     ],
@@ -1295,6 +1320,11 @@
       {
         "date": "2026-10-21",
         "news_count": 0
+      },
+      {
+        "date": "2026-10-22",
+        "trends_score": 0,
+        "news_count": 0
       }
     ],
     "Vivo X200": [
@@ -1511,6 +1541,11 @@
       },
       {
         "date": "2026-10-21",
+        "news_count": 0
+      },
+      {
+        "date": "2026-10-22",
+        "trends_score": 0,
         "news_count": 0
       }
     ],
@@ -1729,6 +1764,11 @@
       {
         "date": "2026-10-21",
         "news_count": 0
+      },
+      {
+        "date": "2026-10-22",
+        "trends_score": 0,
+        "news_count": 0
       }
     ],
     "มือถือพับได้": [
@@ -1945,6 +1985,11 @@
       },
       {
         "date": "2026-10-21",
+        "news_count": 0
+      },
+      {
+        "date": "2026-10-22",
+        "trends_score": 0,
         "news_count": 0
       }
     ],
@@ -2163,6 +2208,11 @@
       {
         "date": "2026-10-21",
         "news_count": 0
+      },
+      {
+        "date": "2026-10-22",
+        "trends_score": 0,
+        "news_count": 0
       }
     ],
     "พาวเวอร์แบงค์": [
@@ -2377,6 +2427,11 @@
       },
       {
         "date": "2026-10-21",
+        "news_count": 0
+      },
+      {
+        "date": "2026-10-22",
+        "trends_score": 48,
         "news_count": 0
       }
     ],
@@ -2593,6 +2648,11 @@
       {
         "date": "2026-10-21",
         "news_count": 0
+      },
+      {
+        "date": "2026-10-22",
+        "trends_score": 0,
+        "news_count": 0
       }
     ],
     "การ์ดจอ RTX": [
@@ -2807,6 +2867,11 @@
       },
       {
         "date": "2026-10-21",
+        "news_count": 0
+      },
+      {
+        "date": "2026-10-22",
+        "trends_score": 0,
         "news_count": 0
       }
     ],
@@ -3023,6 +3088,11 @@
       {
         "date": "2026-10-21",
         "news_count": 0
+      },
+      {
+        "date": "2026-10-22",
+        "trends_score": 29,
+        "news_count": 0
       }
     ],
     "นาฬิกาอัจฉริยะ": [
@@ -3237,6 +3307,11 @@
       },
       {
         "date": "2026-10-21",
+        "news_count": 0
+      },
+      {
+        "date": "2026-10-22",
+        "trends_score": 0,
         "news_count": 0
       }
     ]

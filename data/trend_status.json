@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-28T06:44:45.508985+00:00",
+  "generated_at": "2026-10-29T06:52:21.419208+00:00",
   "keywords": {
     "iPhone 17": {
-      "status": "Rising",
-      "latest_value": 71.0,
-      "rolling_mean": 70.21,
-      "rolling_std": 10.16,
-      "z_score": 0.08,
-      "slope_7d": 2.04,
-      "data_points": 44
+      "status": "Declining",
+      "latest_value": 66.0,
+      "rolling_mean": 69.29,
+      "rolling_std": 9.9,
+      "z_score": -0.33,
+      "slope_7d": -0.86,
+      "data_points": 45
     },
     "Samsung Galaxy S25": {
       "status": "Stable",
@@ -16,17 +16,17 @@
       "rolling_mean": 0.43,
       "rolling_std": 1.55,
       "z_score": -0.28,
-      "slope_7d": -0.21,
-      "data_points": 44
+      "slope_7d": -0.43,
+      "data_points": 45
     },
     "Xiaomi 15": {
-      "status": "Stable",
-      "latest_value": 0.0,
-      "rolling_mean": 1.21,
-      "rolling_std": 3.26,
-      "z_score": -0.37,
-      "slope_7d": 0.0,
-      "data_points": 44
+      "status": "Rising",
+      "latest_value": 7.0,
+      "rolling_mean": 1.71,
+      "rolling_std": 3.55,
+      "z_score": 1.49,
+      "slope_7d": 0.75,
+      "data_points": 45
     },
     "ASUS ROG Phone": {
       "status": "Stable",
@@ -35,7 +35,7 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 44
+      "data_points": 45
     },
     "REDMAGIC": {
       "status": "Declining",
@@ -43,8 +43,8 @@
       "rolling_mean": 2.0,
       "rolling_std": 3.18,
       "z_score": -0.63,
-      "slope_7d": -0.57,
-      "data_points": 44
+      "slope_7d": -0.86,
+      "data_points": 45
     },
     "OPPO Find X8": {
       "status": "Stable",
@@ -53,7 +53,7 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 45
+      "data_points": 46
     },
     "Vivo X200": {
       "status": "Stable",
@@ -62,7 +62,7 @@
       "rolling_std": 5.67,
       "z_score": -0.28,
       "slope_7d": 0.0,
-      "data_points": 45
+      "data_points": 46
     },
     "Realme GT": {
       "status": "Stable",
@@ -71,7 +71,7 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 45
+      "data_points": 46
     },
     "มือถือพับได้": {
       "status": "Stable",
@@ -80,25 +80,25 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 45
+      "data_points": 46
     },
     "หูฟังไร้สาย": {
       "status": "Rising",
-      "latest_value": 37.0,
+      "latest_value": 0.0,
       "rolling_mean": 12.86,
       "rolling_std": 19.44,
-      "z_score": 1.24,
-      "slope_7d": 5.39,
-      "data_points": 45
+      "z_score": -0.66,
+      "slope_7d": 1.0,
+      "data_points": 46
     },
     "พาวเวอร์แบงค์": {
       "status": "Rising",
-      "latest_value": 75.0,
-      "rolling_mean": 45.79,
-      "rolling_std": 18.18,
-      "z_score": 1.61,
-      "slope_7d": 2.39,
-      "data_points": 43
+      "latest_value": 67.0,
+      "rolling_mean": 50.57,
+      "rolling_std": 13.79,
+      "z_score": 1.19,
+      "slope_7d": 3.25,
+      "data_points": 44
     },
     "โน้ตบุ๊ก AI": {
       "status": "Stable",
@@ -107,7 +107,7 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 43
+      "data_points": 44
     },
     "การ์ดจอ RTX": {
       "status": "Stable",
@@ -116,16 +116,16 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 43
+      "data_points": 44
     },
     "MacBook Air": {
       "status": "Rising",
-      "latest_value": 56.0,
-      "rolling_mean": 41.5,
-      "rolling_std": 22.55,
-      "z_score": 0.64,
-      "slope_7d": 1.68,
-      "data_points": 43
+      "latest_value": 77.0,
+      "rolling_mean": 47.0,
+      "rolling_std": 21.1,
+      "z_score": 1.42,
+      "slope_7d": 5.07,
+      "data_points": 44
     },
     "นาฬิกาอัจฉริยะ": {
       "status": "Stable",
@@ -134,7 +134,7 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 43
+      "data_points": 44
     }
   }
 }

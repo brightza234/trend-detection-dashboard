@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-11T07:37:56.484820+00:00",
+  "generated_at": "2026-11-12T08:06:08.362584+00:00",
   "keywords": {
     "iPhone 17": {
       "status": "Declining",
-      "latest_value": 36.0,
-      "rolling_mean": 68.43,
-      "rolling_std": 12.76,
-      "z_score": -2.54,
-      "slope_7d": -3.5,
-      "data_points": 57
+      "latest_value": 0.0,
+      "rolling_mean": 63.36,
+      "rolling_std": 21.7,
+      "z_score": -2.92,
+      "slope_7d": -10.04,
+      "data_points": 58
     },
     "Samsung Galaxy S25": {
       "status": "Stable",
@@ -17,7 +17,7 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 57
+      "data_points": 58
     },
     "Xiaomi 15": {
       "status": "Stable",
@@ -25,8 +25,8 @@
       "rolling_mean": 1.29,
       "rolling_std": 2.49,
       "z_score": -0.52,
-      "slope_7d": 0.18,
-      "data_points": 57
+      "slope_7d": 0.0,
+      "data_points": 58
     },
     "ASUS ROG Phone": {
       "status": "Stable",
@@ -35,25 +35,25 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 57
+      "data_points": 58
     },
     "REDMAGIC": {
-      "status": "Spike",
-      "latest_value": 7.0,
+      "status": "Stable",
+      "latest_value": 0.0,
       "rolling_mean": 1.36,
       "rolling_std": 2.61,
-      "z_score": 2.16,
-      "slope_7d": 0.32,
-      "data_points": 57
+      "z_score": -0.52,
+      "slope_7d": -0.14,
+      "data_points": 58
     },
     "OPPO Find X8": {
-      "status": "Declining",
+      "status": "Stable",
       "latest_value": 0.0,
       "rolling_mean": 1.29,
       "rolling_std": 4.64,
       "z_score": -0.28,
-      "slope_7d": -1.93,
-      "data_points": 59
+      "slope_7d": 0.0,
+      "data_points": 60
     },
     "Vivo X200": {
       "status": "Stable",
@@ -62,16 +62,16 @@
       "rolling_std": 13.97,
       "z_score": -0.37,
       "slope_7d": 0.0,
-      "data_points": 59
+      "data_points": 60
     },
     "Realme GT": {
-      "status": "Stable",
+      "status": "Declining",
       "latest_value": 0.0,
       "rolling_mean": 2.86,
       "rolling_std": 7.48,
       "z_score": -0.38,
-      "slope_7d": 0.5,
-      "data_points": 59
+      "slope_7d": -0.93,
+      "data_points": 60
     },
     "มือถือพับได้": {
       "status": "Stable",
@@ -80,25 +80,25 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 59
+      "data_points": 60
     },
     "หูฟังไร้สาย": {
       "status": "Rising",
-      "latest_value": 36.0,
+      "latest_value": 0.0,
       "rolling_mean": 15.71,
       "rolling_std": 24.65,
-      "z_score": 0.82,
-      "slope_7d": 2.25,
-      "data_points": 59
+      "z_score": -0.64,
+      "slope_7d": 1.29,
+      "data_points": 60
     },
     "พาวเวอร์แบงค์": {
       "status": "Declining",
-      "latest_value": 32.0,
-      "rolling_mean": 48.93,
-      "rolling_std": 23.56,
-      "z_score": -0.72,
-      "slope_7d": -9.32,
-      "data_points": 57
+      "latest_value": 0.0,
+      "rolling_mean": 44.14,
+      "rolling_std": 26.07,
+      "z_score": -1.69,
+      "slope_7d": -10.25,
+      "data_points": 58
     },
     "โน้ตบุ๊ก AI": {
       "status": "Stable",
@@ -107,25 +107,25 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 57
+      "data_points": 58
     },
     "การ์ดจอ RTX": {
-      "status": "Declining",
+      "status": "Stable",
       "latest_value": 0.0,
       "rolling_mean": 2.0,
       "rolling_std": 4.91,
       "z_score": -0.41,
-      "slope_7d": -1.61,
-      "data_points": 57
+      "slope_7d": 0.0,
+      "data_points": 58
     },
     "MacBook Air": {
-      "status": "Stable",
-      "latest_value": 40.0,
-      "rolling_mean": 39.64,
-      "rolling_std": 23.59,
-      "z_score": 0.02,
-      "slope_7d": 0.5,
-      "data_points": 57
+      "status": "Declining",
+      "latest_value": 0.0,
+      "rolling_mean": 34.14,
+      "rolling_std": 23.21,
+      "z_score": -1.47,
+      "slope_7d": -3.46,
+      "data_points": 58
     },
     "นาฬิกาอัจฉริยะ": {
       "status": "Stable",
@@ -134,7 +134,7 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 57
+      "data_points": 58
     }
   }
 }

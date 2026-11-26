@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:42:12.049640+00:00",
+  "generated_at": "2026-11-26T09:18:04.509495+00:00",
   "keywords": {
     "iPhone 17": {
       "status": "Rising",
@@ -53,7 +53,7 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 73
+      "data_points": 74
     },
     "Vivo X200": {
       "status": "Stable",
@@ -62,7 +62,7 @@
       "rolling_std": 7.98,
       "z_score": -0.28,
       "slope_7d": 0.0,
-      "data_points": 73
+      "data_points": 74
     },
     "Realme GT": {
       "status": "Stable",
@@ -71,7 +71,7 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 73
+      "data_points": 74
     },
     "มือถือพับได้": {
       "status": "Stable",
@@ -80,25 +80,25 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 73
+      "data_points": 74
     },
     "หูฟังไร้สาย": {
-      "status": "Rising",
+      "status": "Declining",
       "latest_value": 0.0,
       "rolling_mean": 12.36,
       "rolling_std": 21.33,
       "z_score": -0.58,
-      "slope_7d": 0.86,
-      "data_points": 73
+      "slope_7d": -2.04,
+      "data_points": 74
     },
     "พาวเวอร์แบงค์": {
       "status": "Rising",
-      "latest_value": 30.0,
-      "rolling_mean": 35.14,
-      "rolling_std": 17.08,
-      "z_score": -0.3,
-      "slope_7d": 2.32,
-      "data_points": 71
+      "latest_value": 67.0,
+      "rolling_mean": 39.93,
+      "rolling_std": 15.91,
+      "z_score": 1.7,
+      "slope_7d": 5.75,
+      "data_points": 72
     },
     "โน้ตบุ๊ก AI": {
       "status": "Stable",
@@ -107,7 +107,7 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 71
+      "data_points": 72
     },
     "การ์ดจอ RTX": {
       "status": "Stable",
@@ -115,17 +115,17 @@
       "rolling_mean": 1.79,
       "rolling_std": 4.38,
       "z_score": -0.41,
-      "slope_7d": 0.43,
-      "data_points": 71
+      "slope_7d": 0.0,
+      "data_points": 72
     },
     "MacBook Air": {
       "status": "Rising",
-      "latest_value": 44.0,
-      "rolling_mean": 27.14,
-      "rolling_std": 18.17,
-      "z_score": 0.93,
-      "slope_7d": 4.54,
-      "data_points": 71
+      "latest_value": 47.0,
+      "rolling_mean": 30.5,
+      "rolling_std": 17.15,
+      "z_score": 0.96,
+      "slope_7d": 8.43,
+      "data_points": 72
     },
     "นาฬิกาอัจฉริยะ": {
       "status": "Stable",
@@ -134,7 +134,7 @@
       "rolling_std": 0.0,
       "z_score": null,
       "slope_7d": 0.0,
-      "data_points": 71
+      "data_points": 72
     }
   }
 }
